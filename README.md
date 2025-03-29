@@ -32,10 +32,11 @@ First, clone the repository from GitHub to get a local copy of the project:
 git clone https://github.com/PiyushKorake/LLM-RAG-Function-Execution-API.git
 cd LLM-RAG-Function-Execution-API
 
----
 
 ## Jupyter Notebook
 
 You can view the interactive Jupyter Notebook for this project by clicking the link below:
 
-[LLM-RAG-Function-Execution-API.ipynb](./LLM-RAG-Function-Execution-API.ipynb)
+[LLM-RAG-Function-Execution-API.ipynb](https://github.com/YourUsername/LLM-RAG-Function-Execution-API/blob/main/LLM-RAG-Function-Execution-API.ipynb)
+
+
