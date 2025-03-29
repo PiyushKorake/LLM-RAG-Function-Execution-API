@@ -32,7 +32,7 @@ First, clone the repository from GitHub to get a local copy of the project:
 ```bash
 git clone https://github.com/PiyushKorake/LLM-RAG-Function-Execution-API.git
 cd LLM-RAG-Function-Execution-API
-
+```
 
 ## Jupyter Notebook
 
